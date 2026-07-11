@@ -147,19 +147,6 @@ Through these projects, I aim to:
 
 ---
 
-# 🚀 Project Progress
-
-| Project | Status |
-|----------|--------|
-| Mini Project 01 | ⏳ Coming Soon |
-| Mini Project 02 | ⏳ Coming Soon |
-| Mini Project 03 | ⏳ Coming Soon |
-| Major Project 01 | ⏳ Coming Soon |
-| Major Project 02 | ⏳ Coming Soon |
-| Capstone Project | ⏳ Coming Soon |
-
----
-
 # 📖 Related Repository
 
 This repository focuses on project implementation.
@@ -177,13 +164,6 @@ This repository is intended for learning and personal skill development.
 Suggestions, improvements, and feedback are always welcome.
 
 ---
-
-# 📄 License
-
-This repository is licensed under the MIT License.
-
----
-
 ## ⭐ If you find this repository helpful, consider giving it a star!
 
 ```
