@@ -3,7 +3,12 @@
 An interactive **Power BI dashboard** developed to analyze student academic performance and identify the factors that influence final grades. This project transforms raw student data into meaningful insights through interactive visualizations, KPIs, slicers, and DAX measures.
 
 ---
-
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Analytics-blue)
+![Power Query](https://img.shields.io/badge/Power%20Query-ETL-success)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Portfolio](https://img.shields.io/badge/Portfolio-Project-blueviolet)
+![GitHub](https://img.shields.io/badge/GitHub-Open%20Source-black?logo=github)
 ## 📌 Project Overview
 
 The objective of this project is to analyze students' academic performance and understand how various factors such as study time, previous failures, internet access, parental education, and career aspirations impact their final grades.
