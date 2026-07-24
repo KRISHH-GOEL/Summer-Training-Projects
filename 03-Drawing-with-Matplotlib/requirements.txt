@@ -1,5 +1,0 @@
-# Python Version
-Python>=3.10
-
-# Required Library
-matplotlib>=3.7
