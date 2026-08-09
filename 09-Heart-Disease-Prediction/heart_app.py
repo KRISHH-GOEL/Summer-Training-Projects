@@ -1,6 +1,9 @@
 import streamlit as st
 import pandas as pd
+from pathlib import Path
 import joblib
+
+BASE_DIR = Path(__file__).resolve().parent
 
 st.set_page_config(
     page_title="Heart Disease Prediction",
@@ -10,10 +13,10 @@ st.set_page_config(
 )
 # ==========================================================
 try:
-    model = joblib.load("heart_disease_model.pkl")
-    encoder = joblib.load("label_encoder.pkl")
-    metrics = joblib.load("metrics.pkl")
-    best_params = joblib.load("best_params.pkl")
+model = joblib.load(BASE_DIR / "heart_disease_model.pkl")
+label_encoder = joblib.load(BASE_DIR / "label_encoder.pkl")
+best_params = joblib.load(BASE_DIR / "best_params.pkl")
+metrics = joblib.load(BASE_DIR / "metrics.pkl")
 
 except Exception as e:
     st.error(f"Error loading model files.\n\n{e}")
