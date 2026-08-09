@@ -13,10 +13,10 @@ st.set_page_config(
 )
 # ==========================================================
 try:
-model = joblib.load(BASE_DIR / "heart_disease_model.pkl")
-label_encoder = joblib.load(BASE_DIR / "label_encoder.pkl")
-best_params = joblib.load(BASE_DIR / "best_params.pkl")
-metrics = joblib.load(BASE_DIR / "metrics.pkl")
+    model = joblib.load(BASE_DIR / "heart_disease_model.pkl")
+    label_encoder = joblib.load(BASE_DIR / "label_encoder.pkl")
+    best_params = joblib.load(BASE_DIR / "best_params.pkl")
+    metrics = joblib.load(BASE_DIR / "metrics.pkl")
 
 except Exception as e:
     st.error(f"Error loading model files.\n\n{e}")
