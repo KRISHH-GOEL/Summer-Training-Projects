@@ -156,21 +156,6 @@ streamlit run insurance_app.py
 
 ---
 
-## 📸 Application Preview
-
-> Add screenshots of your Streamlit application here.
-
-Example:
-
-```
-images/
-    home.png
-    prediction.png
-    about_model.png
-```
-
----
-
 ## 🧠 Machine Learning Workflow
 
 ```
@@ -214,21 +199,15 @@ Streamlit Deployment
 
 Data Science & Machine Learning Enthusiast
 
-GitHub: https://github.com/your-username
+📌 GitHub: https://github.com/KRISHH-GOEL
 
-LinkedIn: https://linkedin.com/in/your-profile
+📌 LinkedIn: www.linkedin.com/in/krish-goel-394ba4328
 
 ---
 
 ## ⭐ If you like this project
 
 Give this repository a **Star ⭐** and feel free to fork it for your own learning.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
 
 ---
 
