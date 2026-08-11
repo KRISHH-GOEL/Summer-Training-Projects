@@ -111,6 +111,11 @@ Contains 150 flower samples with four numerical features used to classify flower
 
 **Krish Goel**
 
+📌 GitHub: https://github.com/KRISHH-GOEL
+
+📌 LinkedIn: www.linkedin.com/in/krish-goel-394ba4328
+
+
 ---
 
 ## ⭐ If you found this project useful, consider giving it a star!
