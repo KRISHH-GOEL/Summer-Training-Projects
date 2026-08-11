@@ -114,21 +114,6 @@ The model learns the relationship between these two variables to make prediction
 
 ---
 
-## 📸 Application Preview
-
-You can add screenshots here.
-
-```
-assets/
-    app.png
-```
-
-```markdown
-![Application Screenshot](assets/app.png)
-```
-
----
-
 ## 📚 Learning Outcomes
 
 This project helped in understanding:
@@ -156,7 +141,8 @@ This project helped in understanding:
 
 **Krish Goel**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/KRISHH-GOEL
+LinkedIn: www.linkedin.com/in/krish-goel-394ba4328
 
 ---
 
