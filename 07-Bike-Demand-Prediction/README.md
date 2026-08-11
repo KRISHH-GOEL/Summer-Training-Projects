@@ -155,20 +155,6 @@ streamlit run bike_app.py
 
 ---
 
-## 📷 Application Preview
-
-Add screenshots of your application here.
-
-```
-assets/
-│
-├── home.png
-├── prediction.png
-└── result.png
-```
-
----
-
 ## 📦 Requirements
 
 ```
@@ -219,9 +205,7 @@ This project helped in understanding:
 
 **Krish Goel**
 
-B.Tech Computer Science Student
 
-Machine Learning | Data Science | Python
 
 ---
 
