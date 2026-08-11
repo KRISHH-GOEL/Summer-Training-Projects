@@ -15,13 +15,6 @@ The objective of this project is to analyze students' academic performance and u
 
 The dashboard provides an intuitive and interactive interface that enables users to filter data and explore different aspects of student performance with ease.
 
----
-
-## 🚀 Dashboard Preview
-
-> **Main Dashboard**
-
-![Dashboard Preview](dashboard.png)
 
 ---
 
@@ -177,12 +170,6 @@ Through this project, I gained hands-on experience with:
 
 ---
 
-## 📸 Dashboard Snapshot
-
-<img src="dashboard.png" width="1000">
-
----
-
 ## 🔮 Future Improvements
 
 Some possible enhancements include:
@@ -202,9 +189,9 @@ Some possible enhancements include:
 
 B.Tech Student | Aspiring Data Analyst | Power BI | Python | SQL
 
-📌 GitHub: https://github.com/YourUsername
+📌 GitHub: https://github.com/KRISHH-GOEL
 
-📌 LinkedIn: https://linkedin.com/in/YourProfile
+📌 LinkedIn: www.linkedin.com/in/krish-goel-394ba4328
 
 ---
 
