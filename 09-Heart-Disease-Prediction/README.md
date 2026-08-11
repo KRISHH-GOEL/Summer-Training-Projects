@@ -250,9 +250,9 @@ This project is licensed under the MIT License.
 
 B.Tech CSE Student | Machine Learning Enthusiast | Python Developer
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/KRISHH-GOEL
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: www.linkedin.com/in/krish-goel-394ba4328
 
 ---
 
