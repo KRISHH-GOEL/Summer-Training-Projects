@@ -198,7 +198,9 @@ This project is licensed under the **MIT License**.
 **Krish Goel**
 
 Machine Learning • Data Science • Python
+📌 GitHub: https://github.com/KRISHH-GOEL
 
+📌 LinkedIn: www.linkedin.com/in/krish-goel-394ba4328
 
 ---
 
