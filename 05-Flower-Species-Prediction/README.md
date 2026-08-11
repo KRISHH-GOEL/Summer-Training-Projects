@@ -104,18 +104,6 @@ The model was trained on the Iris dataset available in Scikit-Learn.
 
 Contains 150 flower samples with four numerical features used to classify flowers into three species.
 
----
-
-## 📸 Application Preview
-
-> Add screenshots of your Streamlit application here.
-
-Example:
-
-```
-images/home.png
-images/prediction.png
-```
 
 ---
 
