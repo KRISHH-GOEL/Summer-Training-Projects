@@ -139,17 +139,6 @@ Run the Streamlit application
 streamlit run loan_app.py
 ```
 
----
-
-## 📷 Application Preview
-
-### Home Page
-
-> Add a screenshot of your application here.
-
-```
-images/screenshot.png
-```
 
 ---
 
@@ -214,9 +203,9 @@ This project demonstrates:
 
 Machine Learning | Data Science | Python Developer
 
-GitHub: https://github.com/your-username
+📌 GitHub: https://github.com/KRISHH-GOEL
 
-LinkedIn: https://linkedin.com/in/your-profile
+📌 LinkedIn: www.linkedin.com/in/krish-goel-394ba4328
 
 ---
 
@@ -225,7 +214,3 @@ LinkedIn: https://linkedin.com/in/your-profile
 If you found this project useful, consider giving it a ⭐ on GitHub!
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
