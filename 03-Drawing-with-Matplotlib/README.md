@@ -45,16 +45,6 @@ Hut-Using-Matplotlib/
 
 ---
 
-## 📸 Output
-
-Add your generated image here.
-
-```markdown
-![Output](hut_output.png)
-```
-
----
-
 ## 📚 Concepts Practiced
 
 - `matplotlib.pyplot`
