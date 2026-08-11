@@ -115,20 +115,6 @@ The model learns the relationship between housing features and house prices and 
 
 ---
 
-## 📷 Project Screenshots
-
-### Home Page
-
-*(Insert Screenshot Here)*
-
----
-
-### Prediction
-
-*(Insert Screenshot Here)*
-
----
-
 ## 📁 Project Structure
 
 ```text
